@@ -1,0 +1,11 @@
+{
+    "CLIENT_ID" : "GOOGLE_CLIENT_ID",
+    "CLIENT_SECRET" : "GOOGLE_CLIENT_SECRET",
+    "REDIRECT_URL" : "REDIRECT_URL",
+    "PERMISSIONS": [
+        "https://www.google.com/m8/feeds",
+        "https://mail.google.com/mail/feed/atom",
+        "https://www.googleapis.com/auth/plus.login",
+        "https://www.googleapis.com/auth/userinfo.email"
+    ]
+}

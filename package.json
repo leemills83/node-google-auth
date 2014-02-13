@@ -1,0 +1,27 @@
+{
+  "me": "APP_NAME",
+  "version": "0.0.1",
+  "description": "Basic RESTFUL platform API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leemills83/node-google-auth.git"
+  },
+  "keywords": [
+    "google-api",
+    "node",
+    "oauth"
+  ],
+  "author": "Lee Mills",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leemills83/node-google-auth/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "googleapis": "0.4.2"
+  }
+}
